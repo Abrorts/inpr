@@ -4,13 +4,82 @@ coverY: -585.0306748466257
 
 # 1-MA’RUZA. MASALALARNI KOMPYUTERDA YECHISH BOSQICHLARI
 
-***
-
 ****
 
-****
+**3-MAʻRUZA**
+
+**DASTUR VA DASTURLASH TILLARI**
+
+**Reja:**
+
+1. **Dastur tushunchasi**
+2. **Komplyator va interpretatorlar**
+3. **Quyi, oʻrta va yuqori darajali dasturlash tillari**
+4. **Python dasturlash tili**
 
 
+
+
+
+**Python dasturlash tili**
+
+Hozirgi kunda juda ko‘p algoritmik tillar mavjud. Bular ichida Python, Java, C++, C# kabi dasturlash tillari juda takomillashib, tobora ommalashib bormoqda. Mazkur tillardagi vositalar zamonaviy kompyuter texnologiyasining hamma talablarini o‘z ichiga olgan va unda dastur tuzuvchi uchun ko‘pgina qulayliklar yaratilgan.
+
+Python dasturlash tilining yaratilishi o‘tgan asrning 80-yillari oxiri 90-yil boshlaridan boshlangan. O\`sha paytlarda Gollandiyaning CWI instituti xodimi, dasturvhi Gvido van Rossum ommalashishi kutilayotgan ABC tilini yaratilish loyihasida ishtirok etgan edi. ABC tili Basic tili o\`rniga talabalarga asosiy dasturlash konsepsiyalarini o\`rgatish uchun mo\`ljallangan til edi. Shuning bilan bir qatorda Gvido van Rossum mutlaqo yangi interpretator ustida ishlab, ma’lum vaqt davomida yangi dasturlash tilining asosini yozdi. Bu dasturlash tilini Python deb nomlab, ABC tilining ba’zi bir g\`oyalarini o\`zlashtirdi. Shuningdek, Python 1980-1990-yillarda keng foydalanilgan Algol-68, C, C++, Modul3 ABC, SmallTalk tillarining ko\`plab xususiyatlarini o\`ziga olgandi. Gvido van Rossum bu tilni internet orqali tarqata boshladi. O\`sha paytlarda Gvido BBC ning “Monti Paytonning uchuvchi sirki” teleshou-sirki sharafiga o\`zi yaratgan tilni Monti Python nomiga Python deb atadi.
+
+Dasturning sintaksisi sodda bo’lganligi uchun tezda ommalasha boshladi. 1991-yildan boshlab obyektga yo‘naltirilgan dasturlash tili vositalari qo’shildi. Gvidio Van Rossum Python dasturlash tilining 1.0 versiyasi 1994-yilda AQSHda CNRI firmasida, 2.0 versiyasini esa 2000-yilda BeOpen firmasida chiqardi. Bu versiyada eng asosiysi til va interpretatorni rivojlanish jarayoni ochiq ravishda bo\`ldi. 2008-yilga kelib Python 3.0 versiyasi realizatsiyalandi. Hozirgi kunda Python 3.8 versiyasidan keng foydalanilmoqda.
+
+![](../.gitbook/assets/3)
+
+Python – bu o'rganishga oson va shu bilan birga imkoniyatlari yuqori bo'lgan oz sonlik zamonaviy dasturlash tillari qatoriga kiradi. Python yuqori darajadagi ma'lumotlar strukturasi va oddiy lekin samarador obyektga yo'naltirilgan dasturlash uslublarini taqdim etadi.
+
+Pythonning o'ziga xosligi:
+
+* Oddiy, o'rganishga oson, sodda sintaksisga ega, dasturlashni boshlash uchun qulay, erkin va ochiq kodlik dasturiy ta'minot;
+* Dasturni yozish davomida quyi darajadagi detallarni, misol uchun xotirani boshqarishni hisobga olish shart emas;
+* Turli platformalarda muammolarsiz ishlay oladi;
+* Interpretatsiyalanish hisobiga mashina kodiga yuklama tushmaydi;
+* Foydalanuvchilar tomonidan kengaytirish imkoniyati borligi uchun uni o‘z sohasiga moslashtirsa bo‘ladi.
+* Turli tipdagi turli sohadagi boy modullarga ega;
+* Web dasturlash imkoniyati mavjudligi;
+* Telegram botlarini tuzsa bo‘ladi;
+* Sun‘iy intellekt va ma‘lumotlarni tahlillash sohasi uchun tezkor dasturlash imkoniyati.
+
+Python dasturlash tili sodda va o’qilishi oddiy bo’lgan dasturlash tili bo’lib u inglizcha so’zlarni qo’llab quvvatlaydi kalit so’zlar o’rnida shuning uchun bu boshqacha ko’rinishga ega.
+
+**Python Interpretori:** Bu tarjimon tomonidan ish vaqtida qayta ishlanganligini va uni bajarishdan oldin dasturni kompilyatsiya qilishning hojati yo’qligini bildiradi. Bu PERL va PHP ga o’xshaydi.
+
+**Python Interaktiv:** Bu aslida Python buyrug’ida o’tirib, dasturlarni yozish uchun to’g’ridan-to’g’ri tarjimon bilan aloqa o’rnatish mumkin degan ma’noni anglatadi.
+
+**Python Obyektga Yo’naltirilgan:** Python Obyektga yo’naltirish uslubini yoki dasturiy texnikasini qo’llab-quvvatlaydi.
+
+**Python Boshlovchilar tili:** Python – boshlang’ich dasturchilar uchun ajoyib til bo’lib, oddiy matnni ishlashdan WWW brauzerlariga o’yinlarga keng ko’lamdagi ilovalarni ishlab chiqishni qo’llab-quvvatlaydi.
+
+Python dasturlash tili butun dunyo bo‘yicha foydalanilayotgan dasturlash tillarining reytingida yetakchilikni qo‘lga kiritmoqda. PyPl reytingida mutlaq yuqori pog‘onani egallagan (2020-yil iyul oyi holatiga ko‘ra).
+
+Jadval 1. Pypl reytingiga ko’ra dasturlash tillarining reytingi
+
+| **O‘rni** | **Dasturlash tili** | **Umumiy ulush** | **Foydalanish sur’ati (2019-yilga nisbatan)** |
+| --------- | ------------------- | ---------------- | --------------------------------------------- |
+| 1         | Python              | 31.73 %          | +3.9 %                                        |
+| 2         | Java                | 17.13 %          | -2.7 %                                        |
+| 3         | Javascript          | 7.98 %           | -0.3 %                                        |
+| 4         | C#                  | 6.67 %           | -0.6 %                                        |
+| 5         | C/C++               | 5.93 %           | +0.1 %                                        |
+| 6         | PHP                 | 5.64 %           | -1.1 %                                        |
+| 7         | R                   | 4.14 %           | +0.3 %                                        |
+| 8         | Objective-C         | 2.61 %           | -0.1 %                                        |
+| 9         | Swift               | 2.29 %           | -0.1 %                                        |
+
+Python dasturlash tili \*.pyw (grafik interfeysli dastur) yoki \*.py kengaytmali oddiy matn faylini namoyon etadi. GNU/Linux distributivini ishlatayotgan foydalanuvchi uchun operatsion tizimning o‘zida python o’rnatilgan bo‘ladi. Ushbu distributivda pythonning mavjudligini tekshirish uchun terminal orqali python –-V buyrug’ini tekshirish yetarlidir.
+
+Windows operatsion tizimida python dasturlash tilidan foydalanish uchun IDLE Python yoki Pycharm dasturlash muhitidan foydalanish mumkin. Shuningdek, zaruriy qismlar o‘rnatilgan bo‘lsa, Atom, Sublime Text yoki oddiy NotePad++ da ham dastur kodlarini yozsa bo‘ladi. Python dasturlash muhitini [https://www.python.org/downloads/](https://www.python.org/downloads/) rasmiy web-sahifasidan yuklab olish mumkin.
+
+![](../.gitbook/assets/4)
+
+\-rasm. Python dasturlash muhitining web-sahifasi
+
+Pythonni o‘rnatish jarayoni boshqa dasturlarning o‘rnatilishidek bo‘lib, ortiqcha shartlar talab qilmaydi. O’rnatilish jarayonida PIP nomli kutubxonani o’rnatilishi eng muhim shartlardan biridir.
 
 **4-MA’RUZA**
 
@@ -42,13 +111,13 @@ _4.3-rasm. Python 3.8.3 Shell interfeysi_
 
 Qobiq qism (shell) foydalanuvchilarga interaktiv so‘rov natijalarini chiqarishga mo‘ljallangan. So‘rovlar savol-javob tarzida amalga oshadi. Masalan:
 
-|   | <p>>>> 10+17 # Qo<code>shish&#x3C;/p>&#x3C;p>27&#x3C;/p>&#x3C;p>>>>20*5 # Ko</code>paytirish</p><p>100</p><p>>>>36/12 # Bo`lish</p> |
-| - | ----------------------------------------------------------------------------------------------------------------------------------- |
+|   | <p>>>> 10+17 # Qo`shish</p><p>27</p><p>>>>20*5 # Ko`paytirish</p><p>100</p><p>>>>36/12 # Bo`lish</p> |
+| - | ---------------------------------------------------------------------------------------------------- |
 
 **Python Shell**da ifodalarni kiritish mobaynida yo‘naltirish belgisi (>>>) avtomatik tarzda qo‘yiladi. O‘zgaruvchiga nom berilmasa, kiritilgan eng oxirgi ma’lumot o‘zida “\_\_” o‘zgaruvchi nomi sifatida saqlaydi.
 
-|   | <p>>>> 7*6 # Ko<code>paytirish&#x3C;/p>&#x3C;p>42&#x3C;/p>&#x3C;p>>>>_ +8 # Qo</code>shish</p><p>50</p><p>>>>_/2 # Bo`lish</p><p>25.0</p> |
-| - | ----------------------------------------------------------------------------------------------------------------------------------------- |
+|   | <p>>>> 7*6 # Ko`paytirish</p><p>42</p><p>>>>_ +8 # Qo`shish</p><p>50</p><p>>>>_/2 # Bo`lish</p><p>25.0</p> |
+| - | ---------------------------------------------------------------------------------------------------------- |
 
 Kiritiladigan buyruqlarning ro‘yxatini ko‘rish uchun Ctrl + Probel tugmalar kombinatsiyasini bosish kerak. Kerakli kalit so‘zlarni birinchi harflarini kiritgandan keyin Alt + / tugmalar kombinatsiyalari tanlanganida avtomatik tarzda to‘ldiriladi.
 
@@ -281,6 +350,9 @@ Satrlardagi yozuvlarning hajmi ko‘p bo’lganida va satrga sig’may qolganida
 | - | ----------------------------------------------------------------------------------------------------------------- |
 
 Satrlarning o‘rtasiga qo’shtirnoq yoki apostrof belgisi qo’yilishi kerak bo‘lgan hollarda \’ yoki \” belgilardan foydalaniladi.
+
+|   | >>>nom3 = "Fanning nomi: \\"Dasturlash\\", Tanlangan til: \\"Python\\"" |
+| - | ----------------------------------------------------------------------- |
 
 Python tilida satrlarni bo‘laklarga bo‘lish va satr elementlarini qayta yig‘ish uchun satrning indekslariga murojaat qilish kerak. Indekslar 0 dan boshlanuvchi yoki -1 bilan tugaydigan butun sonlar hisoblanib, satr belgilarining manzilini ko‘rsatadi. Misol uchun s = ‘Light ray’ satrini olaylik.
 
@@ -515,8 +587,8 @@ Shart bo‘yicha tanlanishga bir necha misollarni ko’rib chiqamiz:
 
 Misol 1. Kiritilgan raqamga mos mavzu nomini chiqaruvchi dasturni tuzing.
 
-|   | <p># Mavzuni tanlash</p><p>print ('Kerakli mavzularning raqamini tanlang (1,2,3,4,5)\n')</p><p>x = input('Mavzu raqamini kiriting:')</p><p>if x == '1':</p><p>print ('Algoritmlash asoslari\n')</p><p>elif x == '2':</p><p>print ('Dasturlash tili sintaksisi\n')</p><p>elif x == '3':</p><p>print ('Tarmoqlanuvchi jarayonlarni dasturlash\n')</p><p>elif x == '4':</p><p>print ('Takrorlanuvchi jarayonlarni dasturlash\n')</p><p>elif x == '5':</p><p>print ('Ma<code>lumotlarning murakkab toifasi\n')&#x3C;/p>&#x3C;p>else:&#x3C;/p>&#x3C;p>print ('Noto</code>g`ri raqam tanlandi\n')</p> |
-| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   | <p># Mavzuni tanlash</p><p>print ('Kerakli mavzularning raqamini tanlang (1,2,3,4,5)\n')</p><p>x = input('Mavzu raqamini kiriting:')</p><p>if x == '1':</p><p>print ('Algoritmlash asoslari\n')</p><p>elif x == '2':</p><p>print ('Dasturlash tili sintaksisi\n')</p><p>elif x == '3':</p><p>print ('Tarmoqlanuvchi jarayonlarni dasturlash\n')</p><p>elif x == '4':</p><p>print ('Takrorlanuvchi jarayonlarni dasturlash\n')</p><p>elif x == '5':</p><p>print ('Ma`lumotlarning murakkab toifasi\n')</p><p>else:</p><p>print ('Noto`g`ri raqam tanlandi\n')</p> |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Natija:
 
@@ -525,8 +597,8 @@ Natija:
 
 Misol 2. Oddiy arifmetik amallarni bajaruvchi kalkulyator dasturi.
 
-|   | <p># Kalkulyator dasturi</p><p>x = float(input('Birinchi son: '))</p><p>y = float(input('Ikkinchi son: '))</p><p>p = input('Amalni tanlang (+, -, /, <em>) ')</em></p><p><em>if p == '+':</em></p><p><em>print ('x + y =', (x+y))</em></p><p><em>elif p =='-':</em></p><p><em>print ('x - y =', (x-y))</em></p><p><em>elif p =='</em>':</p><p>print ('x * y =', (x*y))</p><p>elif p =='/':</p><p>if y == 0:</p><p>print ('Nolga bo<code>lib bo</code>lmaydi')</p><p>else:</p><p>print ('x / y =', (x/y))</p><p>else:</p><p>print ('Noto<code>g</code>ri amal tanlandi')</p> |
-| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   | <p># Kalkulyator dasturi</p><p>x = float(input('Birinchi son: '))</p><p>y = float(input('Ikkinchi son: '))</p><p>p = input('Amalni tanlang (+, -, /, *) ')</p><p>if p == '+':</p><p>print ('x + y =', (x+y))</p><p>elif p =='-':</p><p>print ('x - y =', (x-y))</p><p>elif p =='*':</p><p>print ('x * y =', (x*y))</p><p>elif p =='/':</p><p>if y == 0:</p><p>print ('Nolga bo`lib bo`lmaydi')</p><p>else:</p><p>print ('x / y =', (x/y))</p><p>else:</p><p>print ('Noto`g`ri amal tanlandi')</p> |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Natija:
 
