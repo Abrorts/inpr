@@ -15,3 +15,7 @@
 * [3-MA'RUZA. DASTUR VA DASTURLASH TILLARI](3-maruza.-dastur-va-dasturlash-tillari/README.md)
   * [3.1. Dastur tushunchasi](3-maruza.-dastur-va-dasturlash-tillari/3.1.-dastur-tushunchasi.md)
   * [3.2. Algoritmik tillar](3-maruza.-dastur-va-dasturlash-tillari/3.2.-algoritmik-tillar.md)
+* [4-MA'RUZA. PYTHON DASTURLASH TILI SINTAKSISI](4-maruza.-python-dasturlash-tili-sintaksisi/README.md)
+  * [4.1. Python dasturlash tili](4-maruza.-python-dasturlash-tili-sintaksisi/4.1.-python-dasturlash-tili.md)
+  * [4.2. Nima uchun Python?](4-maruza.-python-dasturlash-tili-sintaksisi/4.2.-nima-uchun-python.md)
+  * [4.3. Dasturlash muhitlari](4-maruza.-python-dasturlash-tili-sintaksisi/4.3.-dasturlash-muhitlari.md)
