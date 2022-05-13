@@ -1,0 +1,17 @@
+# Table of contents
+
+* [KIRISH](README.md)
+* [1-MA’RUZA. MASALALARNI KOMPYUTERDA YECHISH BOSQICHLARI](1-maruza.-masalalarni-kompyuterda-yechish-bosqichlari/README.md)
+  * [1.1. Muammoning qo‘yilishi.](1-maruza.-masalalarni-kompyuterda-yechish-bosqichlari/1.1.-muammoning-qoyilishi..md)
+  * [1.2. Masalalarning tahlili.](1-maruza.-masalalarni-kompyuterda-yechish-bosqichlari/1.2.-masalalarning-tahlili..md)
+  * [1.3. Masalalarni komyuterda yechish bosqichlari.](1-maruza.-masalalarni-kompyuterda-yechish-bosqichlari/1.3.-masalalarni-komyuterda-yechish-bosqichlari..md)
+  * [1.4. Savol va topshiriqlar](1-maruza.-masalalarni-kompyuterda-yechish-bosqichlari/1.4.-savol-va-topshiriqlar.md)
+* [2-MA'RUZA. ALGORITM](2-maruza.-algoritm/README.md)
+  * [2.1. Algoritm tushunchasi](2-maruza.-algoritm/2.1.-algoritm-tushunchasi.md)
+  * [2.2. Algoritmlarga sodda misollar.](2-maruza.-algoritm/2.2.-algoritmlarga-sodda-misollar..md)
+  * [2.3. Algoritmning asosiy xossalari](2-maruza.-algoritm/2.3.-algoritmning-asosiy-xossalari.md)
+  * [2.4. Algoritmni ifodalash usullari](2-maruza.-algoritm/2.4.-algoritmni-ifodalash-usullari.md)
+  * [2.5. Savol va topshiriqlar](2-maruza.-algoritm/2.5.-savol-va-topshiriqlar.md)
+* [3-MA'RUZA. DASTUR VA DASTURLASH TILLARI](3-maruza.-dastur-va-dasturlash-tillari/README.md)
+  * [3.1. Dastur tushunchasi](3-maruza.-dastur-va-dasturlash-tillari/3.1.-dastur-tushunchasi.md)
+  * [3.2. Algoritmik tillar](3-maruza.-dastur-va-dasturlash-tillari/3.2.-algoritmik-tillar.md)
