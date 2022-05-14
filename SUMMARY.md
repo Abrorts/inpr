@@ -19,3 +19,7 @@
   * [4.1. Python dasturlash tili](4-maruza.-python-dasturlash-tili-sintaksisi/4.1.-python-dasturlash-tili.md)
   * [4.2. Nima uchun Python?](4-maruza.-python-dasturlash-tili-sintaksisi/4.2.-nima-uchun-python.md)
   * [4.3. Dasturlash muhitlari](4-maruza.-python-dasturlash-tili-sintaksisi/4.3.-dasturlash-muhitlari.md)
+  * [4.4. Python IDLE interfeysi](4-maruza.-python-dasturlash-tili-sintaksisi/4.4.-python-idle-interfeysi.md)
+  * [4.5. Kalit so'zlar](4-maruza.-python-dasturlash-tili-sintaksisi/4.5.-kalit-sozlar.md)
+  * [4.6. Identifikatorlar](4-maruza.-python-dasturlash-tili-sintaksisi/4.6.-identifikatorlar.md)
+  * [4.7. Amallar](4-maruza.-python-dasturlash-tili-sintaksisi/4.7.-amallar.md)
