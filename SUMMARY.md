@@ -39,3 +39,6 @@
 * [7-MA'RUZA. TAKRORLANUVCHI JARAYONLARNI DASTURLASH.](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./README.md)
   * [7.1. While takrorlash operatori](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.1.-while-takrorlash-operatori.md)
   * [7.2. for takrorlanish operatori](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.2.-for-takrorlanish-operatori.md)
+  * [7.3. range funksiyasi](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.3.-range-funksiyasi.md)
+  * [7.4. Ichma-ich joylashgan takrorlanishlar](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.4.-ichma-ich-joylashgan-takrorlanishlar.md)
+  * [7.5. Takrorlanishdan chiqish. Break va continue operatorlari.](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.5.-takrorlanishdan-chiqish.-break-va-continue-operatorlari..md)
