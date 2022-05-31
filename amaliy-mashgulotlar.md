@@ -8,4 +8,4 @@ Topshiriqni bajargandan keyin olingan natijalar bo'yicha hisobot tayyorlang.
 
 Hisobot va/yoki dastur kodini yuboring:
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSf-BtRyyUdvCAJZL1jcu8isqDxXMaGnpme9-wTED00bkXMPLQ/viewform?usp=sf_link" %}
+{% embed url="https://forms.gle/SosbecAiN9MR5Agb6" %}
