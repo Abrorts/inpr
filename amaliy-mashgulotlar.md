@@ -6,6 +6,8 @@ O'qituvchi tomonidan berilgan topshiriqlarni ushbu trenajyor-interpretatorda baj
 
 Topshiriqni bajargandan keyin olingan natijalar bo'yicha hisobot tayyorlang.
 
-Hisobot va/yoki dastur kodini yuboring:
-
 {% embed url="https://forms.gle/SosbecAiN9MR5Agb6" %}
+
+**HISOBOT FAYLINI YUBORISH**
+
+****
