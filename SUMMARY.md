@@ -47,3 +47,4 @@
 * [LABORATORIYA MASHG'ULOTLARI](laboratoriya-mashgulotlari.md)
 * [O'QUV-USLUBIY HUJJATLAR](oquv-uslubiy-hujjatlar.md)
 * [ADABIYOTLAR](adabiyotlar.md)
+* [DASTUR HAQIDA](dastur-haqida.md)
