@@ -10,4 +10,4 @@ Topshiriqni bajargandan keyin olingan natijalar bo'yicha hisobot tayyorlang.
 
 **HISOBOT FAYLINI YUBORISH**
 
-****
+{% embed url="https://54elw47smiy.typeform.com/to/ktO5j8xK" %}
