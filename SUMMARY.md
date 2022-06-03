@@ -43,6 +43,8 @@
     * [7.3. range funksiyasi](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.3.-range-funksiyasi.md)
     * [7.4. Ichma-ich joylashgan takrorlanishlar](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.4.-ichma-ich-joylashgan-takrorlanishlar.md)
     * [7.5. Takrorlanishdan chiqish. Break va continue operatorlari.](7-maruza.-takrorlanuvchi-jarayonlarni-dasturlash./7.5.-takrorlanishdan-chiqish.-break-va-continue-operatorlari..md)
+  * [9-MA'RUZA. QATOR VA RO'YXATLAR](maruza-matnlari/9-maruza.-qator-va-royxatlar/README.md)
+    * [RO'YXATLAR](maruza-matnlari/9-maruza.-qator-va-royxatlar/royxatlar.md)
 * [AMALIY MASHG'ULOTLAR](amaliy-mashgulotlar.md)
 * [LABORATORIYA MASHG'ULOTLARI](laboratoriya-mashgulotlari.md)
 * [O'QUV-USLUBIY HUJJATLAR](oquv-uslubiy-hujjatlar.md)

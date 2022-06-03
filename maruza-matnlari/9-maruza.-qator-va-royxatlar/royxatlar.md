@@ -1,0 +1,78 @@
+# RO'YXATLAR
+
+Python dasturlash tilidagi asosiy o’zgaruvchilardan hisoblangan ro’yxat to’plamidan foydalanib dastur kodini yozib ko’ramiz. Yuqorida takidlab o’tilganidek bu o’zgaruchi tartiblangan va o’zgaruvchan ma’lumotlar turini o’z ichiga oladi va kvadrat qavslar ichiga yoziladi. Keling endi siz bilan ro’yxat o’zgaruvchisining imkoniyatlari bilan tanishib chiqamiz.
+
+![](<../../.gitbook/assets/image (6).png>)
+
+![](<../../.gitbook/assets/image (5).png>)
+
+Yuqoridagi misolda ko’rganingizdek biz ro’yxat o’zgaruvchisidan foydalanib “qurilmalar” ga tegishli ma’lumotlar to’plamini chiqardik. Endi bu ma’lumotlar ichidan istalgan bitta elementni tanlab chiqarishni ko’ramiz. Python dasturida bu indexga murojaat qilish deyiladi. Masalan bizning misolda “sezgir elementlar” elementining indexi 0 ga, “klapanlar” elementiniki esa 1 ga teng, va hokozo.
+
+![](<../../.gitbook/assets/image (14).png>)
+
+![](<../../.gitbook/assets/image (9).png>)
+
+Biz nolinchi o’rinda turgan elementi ya’ni “sezgir elementlar” qurilmasini  tanlab oldik, siz o’zingiz endi istagan qurilmangizni 0 ni 1 ga yoki 2 ga almashtirish orqali o’z qurilmangizni tanlashingiz mumkin. Xudddi shu ishni endi teskari tomondan bajarishimiz xam mukin, “-“  ishorasidan foydalanib ma’lumotlarni oxiridan boshlab chiqarish mumkin.
+
+![](<../../.gitbook/assets/image (11).png>)
+
+![](<../../.gitbook/assets/image (13).png>)
+
+Biz to’plamga istalgan turdagi ma’lumotni yozishimiz kumkin, bu faqat o’zimizga bog’liq. Misol uchun quyidagicha.
+
+![](<../../.gitbook/assets/image (4).png>)
+
+![](<../../.gitbook/assets/image (10).png>)
+
+Endi bu elementlar ichidan bittasini emas bir nechtasini qanday tanlab olishni o’rganamiz. Masalan menga yuqoridagi ma’umotlar ichidan 23 va -45 sonlari kerak va men buni dasturdan quyidagicha so’rab olaman.
+
+![](<../../.gitbook/assets/image (12).png>)
+
+Mana biz so’ragan natijani oldik. Bu qanday ishladi? Biz dasturga 3-elementdan boshlab 5- elementgacha(5-element kirmaydi) bo’lgan ma’lumotlarni chiqar degan buyruqni \[3:5] orqali berdik va natijani oldik. E’tibor bergan bo’lsangiz bizda 3-indexda 23, 4-indexda -45, 5-indexda esa informatika so’zi joylashgan.
+
+Biz ishlayotgan to’plamning uzunligini ya’ni to’plam nechta elementdan tashkil topganligini bilish uchun ”len” funksiyasidan foydalanishimiz mumkin.
+
+![](<../../.gitbook/assets/image (2).png>)
+
+Ko’rib turganingizdek 6 raqami chiqdi, bu  “qurilmalar” to’plami 6 ta elementdan tashkil topganligini anglatadi.
+
+Biz yuqorida ro’yxat to’plamini o’zgaruvchan deb atadik. Xozir buni sinab ko’ramiz. Birinichi indexda turgan “klapanlar” elementini “PLC” elementiga quyidagicha o’zgartiramiz.
+
+&#x20;
+
+![](<../../.gitbook/assets/image (8).png>)
+
+Bundan tashqari, Pythonda ro’yxatlarda foydalanishimiz mumkin bo’lgan bir nechta ichki metodlar mavjud. Ular quyidagilardan iborat.
+
+| **Metod** | **Tavsif**                                                            |
+| --------- | --------------------------------------------------------------------- |
+| append()  | Ro’yxatning  oxiriga element qo’shadi                                 |
+| clear()   | Ro’yxatdagi barcha elementlarni olib tashlaydi                        |
+| copy()    | Ro’yxatni nusxalaydi                                                  |
+| count()   | Belgilangan qiymatga ega elementlar sonini chiqaradi                  |
+| extend()  | Joriy ro’yxatning oxiriga boshqa ro’yxat yoki element qo’shadi        |
+| index()   | Belgilangan qiymatga ega bo'lgan birinchi element indeksini chiqaradi |
+| insert()  | Belgilangan joyga element qo’shadi                                    |
+| pop()     | Belgilangan joydan yoki oxirgi elementni olib tashlaydi               |
+| remove()  | Belgilangan qiymat bilan elementni olib tashlaydi                     |
+| reverse() | Ro’yxatni teskari tartibda o’zgartiradi                               |
+| sort()    | Ro’yxatni tartiblaydi                                                 |
+
+&#x20;
+
+\
+
+
+&#x20;
+
+Endi bu metodlardan foydalanishga misollar ko’rib chiqamiz.
+
+Quyidagi dasturimizda **append** metodidan foydalanib ro’yxatga yangi element qo’shishimiz mymkin. E’tibor bergan bo’lsangiz yangi element ro’yxatning oxiridan qo’shiladi.
+
+![](<../../.gitbook/assets/image (3).png>)
+
+Bundan tashqari **insert** metodidan foydalangan holda istalgan indexga yangi element kiritishimiz ham mumkin.
+
+![](<../../.gitbook/assets/image (7).png>)
+
+Yuqoridagi dasturda **insert** metodidan foydalanib“PLC” elementini 1-indexga kiritdik. Ro’yxat bo’limining boshqa metodlardan foydalanib o’zingiz xar-xil dasturlarni yozib ko’rishingiz mumkin.
