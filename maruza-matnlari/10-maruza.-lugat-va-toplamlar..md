@@ -1,0 +1,52 @@
+# 10-MA'RUZA. LUG'AT VA TO'PLAMLAR.
+
+To'plam tartiblanmagan va indekslanmagan ma’lumot to’plami hisoblanadi va  qayrilma qavslar ichiga yoziladi. Tarmoq ma’lumot turi boshqalaridan indexlanmaganligi bilan farq qiladi. Tarmoq to’plamida eng oddiy dasturni yozib ko’ramiz.
+
+![](<../.gitbook/assets/image (15).png>)
+
+Keling endi shu to’plam ichidan “Python” elementini chiqarish dasturini yozib ko’ramiz.
+
+<img src="../.gitbook/assets/image (12).png" alt="" data-size="original">
+
+Ko’rib turganingizdek to'plam o’zgaruvchisi bu obyektni qo’llab quvvatlay olmasligini aytmoqda chunki bu to’plamda index raqami mavjud emas. Lekin to’plam ichida bizga kerakli element bor yoki yo’qligini bilishimiz mumkin.
+
+![](<../.gitbook/assets/image (8).png>)
+
+Yuqoridagi  to'plam  ma’lumotlar to’plami ichida “Python” elementi mavjud ekan, chunki dasturimiz True javobini chiqardi. Agar to’plam ichida biz izlagan element bo’lmasa dastur False javobini chiqaradi.
+
+\
+
+
+Bundan tashqari, Pythonda to’plamida foydalanishimiz mumkin bo’lgan bir nechta ichki metodlar mavjud. Ular quyidagilardan iborat.
+
+| **Metod**           | **Tavsif**                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| add()               | Tarmoqqa element qo’shadi                                                             |
+| clear()             | Tarmoqdagi barcha elementlarni olib tashlaydi                                         |
+| copy()              | Tarmoqni nusxalaydi                                                                   |
+| difference()        | Ikki yoki undan ortiq tarmoq orasidagi farqni o'z ichiga olgan tarmoqni chiqaradi.    |
+| difference update() | Joriy tarmoqdagi boshqa, belgilangan tarmoqqa kiritilgan elementlarni olib tashlaydi. |
+| discard()           | Belgilangan elementni olib tashlaydi.                                                 |
+| intersection()      | Ikkita tarmoqlar kesishgan tarmoqni chiqaradi.                                        |
+| isdisjoint()        | Ikkita tarmoqni kesishmasi bor yoki yo’qligini chiqaradi                              |
+| issubset()          | Boshqa tarmoq joriy tarmoqni o’z ichiga oladimi yoki yo’qligini chiqaradi.            |
+| ssuperset()         | Joriy tarmoq boshqa tarmoqni o’z ichiga oladimi yoki yo’qligini chiqaradi.            |
+| pop()               | Tamoqdan elementni olib tashlaydi                                                     |
+| remove()            | Belgilangan elementni olib tashlaydi                                                  |
+| union()             | Tarmoq birlashmasini o’z ichiga olgan tarmoqni chiqaradi                              |
+| update()            | Tarmoqni yangi tarmoq bilan boyitadi.                                                 |
+
+\
+
+
+&#x20;
+
+Keling endi siz bilan yuqoridagi metodlar uchun dastur yozib ko’ramiz. Update metodidan foydalanib dastur yozamiz.
+
+![](<../.gitbook/assets/image (13).png>)
+
+Demak **update** funksiyasi orqali to'plamga yangi bir to'plamni yoki elementlarni qo’shishimiz mumkin ekan. Keling endi **discard** usulidan foydalanib ko’ramiz, yuqorida aytib o’tilganidek bu metod orqali belgilangan elementni to'plamdan olib tashlash mumkin, yuqoridagi to'plamdan “Java” elementini olib tashlash dasturini yozamiz.
+
+![](<../.gitbook/assets/image (14).png>)
+
+Dastur to'plamdan “Java” elementini olib tashladi. Siz ham tarmoq to’plamining boshqa metodlaridan foydalanib o’z dasturingizni yozib ko’rishga harakat qiling.
