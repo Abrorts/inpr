@@ -32,6 +32,7 @@
     * [5.3. Sonlar ustida arifmetik amallar. Matematik funksiyalar.](5.-ozgaruvchilar-va-ozgarmaslar-asosiy-malumot-turlari.-dastur-strukturasi./5.3.-sonlar-ustida-arifmetik-amallar.-matematik-funksiyalar..md)
     * [5.4. Satr ma'lumot turi](5.-ozgaruvchilar-va-ozgarmaslar-asosiy-malumot-turlari.-dastur-strukturasi./5.4.-satr-malumot-turi.md)
     * [5.5. Kiritish va chiqarish operatorlari.](5.-ozgaruvchilar-va-ozgarmaslar-asosiy-malumot-turlari.-dastur-strukturasi./5.5.-kiritish-va-chiqarish-operatorlari..md)
+    * [5.6. Savol va topshiriqlar](maruza-matnlari/5-maruza.-ozgaruvchilar-va-ozgarmaslar-asosiy-malumot-turlari.-dastur-strukturasi./5.6.-savol-va-topshiriqlar.md)
   * [6-MA'RUZA. TARMOQLANUVCHI JARAYONLARNI DASTURLASH.](6.-tarmoqlanuvchi-jarayonlarni-dasturlash..md)
     * [6.1. Tarmoqlanuvchi jarayonlar](6-maruza.-tarmoqlanuvchi-jarayonlarni-dasturlash./6.1.-tarmoqlanuvchi-jarayonlar.md)
     * [6.2. Tarmoqlanuvchi jarayonlarga sodda misollar](6-maruza.-tarmoqlanuvchi-jarayonlarni-dasturlash./6.2.-tarmoqlanuvchi-jarayonlarga-sodda-misollar.md)
