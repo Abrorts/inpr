@@ -1,4 +1,4 @@
-# 9-MA'RUZA. QATOR VA RO'YXATLAR
+# 9. KORTEJ VA RO'YXATLAR
 
 Biz oldingi darslarimizda siz bilan Python dasturlash tilining fundamental va eng muhim qismlaridan biri hisoblangan ma’lumotlar turlari(data types) bo’limi bilan tanishib chiqdik. Ushbu bo’limda esa Python dasturining ma’lumotlar murakkab (jamlangan) turlari (collection data types) bo’limidan foydalangan holda ma’lumotlar to’plamlarini qanday yig’ishni o’rganish orqali dasturlash imkoniyatlarimizni kengaytiramiz.
 

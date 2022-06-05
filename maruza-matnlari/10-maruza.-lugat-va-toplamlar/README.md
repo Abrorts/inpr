@@ -1,0 +1,2 @@
+# 10. LUG'AT VA TO'PLAMLAR
+
